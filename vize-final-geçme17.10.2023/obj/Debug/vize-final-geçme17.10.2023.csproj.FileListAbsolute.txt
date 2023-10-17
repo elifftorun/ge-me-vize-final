@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\vize-final-geçme17.10.2023\vize-final-geçme17.10.2023\obj\Debug\vize-final-geçme17.10.2023.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\vize-final-geçme17.10.2023\vize-final-geçme17.10.2023\obj\Debug\vize-final-geçme17.10.2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\vize-final-geçme17.10.2023\vize-final-geçme17.10.2023\obj\Debug\vize_final_geçme17._10._2023.Form1.resources
+C:\Users\User\source\repos\vize-final-geçme17.10.2023\vize-final-geçme17.10.2023\obj\Debug\vize_final_geçme17._10._2023.Properties.Resources.resources
+C:\Users\User\source\repos\vize-final-geçme17.10.2023\vize-final-geçme17.10.2023\obj\Debug\vize-final-geçme17.10.2023.csproj.GenerateResource.cache
+C:\Users\User\source\repos\vize-final-geçme17.10.2023\vize-final-geçme17.10.2023\obj\Debug\vize-final-geçme17.10.2023.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\vize-final-geçme17.10.2023\vize-final-geçme17.10.2023\bin\Debug\vize-final-geçme17.10.2023.exe.config
+C:\Users\User\source\repos\vize-final-geçme17.10.2023\vize-final-geçme17.10.2023\bin\Debug\vize-final-geçme17.10.2023.exe
+C:\Users\User\source\repos\vize-final-geçme17.10.2023\vize-final-geçme17.10.2023\bin\Debug\vize-final-geçme17.10.2023.pdb
+C:\Users\User\source\repos\vize-final-geçme17.10.2023\vize-final-geçme17.10.2023\obj\Debug\vize-final-geçme17.10.2023.exe
+C:\Users\User\source\repos\vize-final-geçme17.10.2023\vize-final-geçme17.10.2023\obj\Debug\vize-final-geçme17.10.2023.pdb
